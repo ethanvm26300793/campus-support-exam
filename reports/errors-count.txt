@@ -1,0 +1,2 @@
+2:ERROR Registration link unavailable
+5:ERROR Password reset failed

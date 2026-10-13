@@ -1,0 +1,6 @@
+INFO Support desk opened
+ERROR Registration link unavailable
+INFO Student account verified
+WARNING Response delayed
+ERROR Password reset failed
+INFO Support desk closed
